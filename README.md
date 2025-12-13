@@ -2,7 +2,7 @@
 <p align="center">
   <em>Senior Software Developer · 🇧🇷 based in São Paulo</em>
 </p>
----
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Barbara-DontNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Barbara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
