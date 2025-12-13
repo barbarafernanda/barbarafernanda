@@ -24,7 +24,7 @@
 🌸 I like clean code and fast deploys.  
 🧠 Always chasing scalability with simplicity.  
 🎯 Passionate about developer experience and automated testing.  
-🎹 Bassist in my spare time (rarely, always playing in my room)
+🎹 Pianist in my spare time (rarely, always playing in my room)
 
 ---
 
