@@ -17,6 +17,7 @@
   <img align="center" alt="Barbara-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Barbara-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
+
 ---
 
 ### 💡 About me
@@ -28,9 +29,16 @@
 
 ---
 
-  
-  ##
- 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarafernanda&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarafernanda&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+### 🔗 Let's connect
 <div> 
   <a href = "mailto:barbarafernanda1608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbarafsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
