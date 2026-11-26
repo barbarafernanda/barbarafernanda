@@ -1,6 +1,6 @@
 <h1 align="center">👩🏽‍💻 Barbara Fernanda </h1>
 <p align="center">
-  <em>Senior Software Developer · 🇧🇷 based in São Paulo</em>
+  <em>Senior Software Engineer · 🇧🇷 based in São Paulo</em>
 </p>
 
 <div style="display: inline_block"><br>
